@@ -1,0 +1,2 @@
+# portfolio
+ O projeto do meu Portfólio Profissional é uma representação visual e informativa do meu percurso profissional, habilidades e realizações. Desenvolvido com o objetivo de destacar minha experiência, competências e projetos relevantes, este portfólio serve como uma vitrine virtual para potenciais empregadores, clientes e colaboradores.
