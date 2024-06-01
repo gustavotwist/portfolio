@@ -1,0 +1,10 @@
+.header {
+    display: flex;
+    flex-direction: column;
+}
+
+.header .foto {
+    width: 200px;
+    height: 200px;
+    border-radius
+}

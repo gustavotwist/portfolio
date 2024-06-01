@@ -1,0 +1,11 @@
+.header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.header .foto {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}

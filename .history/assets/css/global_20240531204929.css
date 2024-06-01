@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+    font-family: "Open Sans", sans-serif;
+}
+
+@font-face {
+    font-family: myFirstF;
+}
+
+body {
+    background-color: #000;
+    color: #fff;
+}
+
+.main {
+    padding: 1rem;
+}
