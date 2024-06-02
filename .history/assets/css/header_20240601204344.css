@@ -1,0 +1,36 @@
+.header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.header .foto {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.header .title {
+    font-family: 'Neue Machina';
+    text-align: center;
+}
+
+.informations {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 100%;
+}
+
+.informations p {
+    margin: .5rem;
+}
+
+.informations p::before {
+    content: '';
+    display: inline-block;
+    width: 26px;
+    height: 26px;
+    background-image: url('/assets/img/icons/person.svg');
+    background-image: no-repeat;
+}
