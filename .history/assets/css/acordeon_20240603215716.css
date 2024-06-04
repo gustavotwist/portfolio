@@ -1,0 +1,13 @@
+.acordeon {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.acordeon .trigger{
+    font-size: 1.5rem;
+}
+
+.acordeon .content {
+    display: none;
+}

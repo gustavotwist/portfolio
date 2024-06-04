@@ -1,0 +1,10 @@
+.acordeon {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.acordeon .t
+.acordeon .content {
+    display: none;
+}
