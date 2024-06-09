@@ -1,0 +1,1 @@
+contsdocument.querySelectorAll('.acordeon .trigger')

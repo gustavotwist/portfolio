@@ -8,7 +8,6 @@
     transition: .25s;
 }
 
-.acordeon.open,
 .acordeon:hover {
     background-color: #55569E;
     border-color: #55569E;
@@ -39,22 +38,10 @@
     background-repeat: no-repeat;
     background-size: contain;
     background-image: url('/assets/img/icons/keyboard.svg');
-    transition: .25s;
 }
 
-.acordeon.open .trigger::after {
-    transform: rotate(180deg);
-}
+.acordeon.open .trigger
 
 .acordeon .content {
-    overflow: hidden;
-    height: 0;
-    opacity: 0;
-    transition: opacity .25s ease-in-out ;
-}
-
-.acordeon.open .content {
-    display: inline-block;
-    height: auto;
-    opacity: 1;
+    display: none;
 }

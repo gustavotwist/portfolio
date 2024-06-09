@@ -1,0 +1,1 @@
+const acordeonTriggersdocument.querySelectorAll('.acordeon .trigger')

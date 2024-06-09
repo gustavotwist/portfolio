@@ -1,0 +1,1 @@
+codocument.querySelectorAll('.acordeon .trigger')
