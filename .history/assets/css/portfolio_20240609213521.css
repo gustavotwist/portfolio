@@ -1,0 +1,13 @@
+.portfolio {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+    justify-content: flex-start;
+    width: 100%;
+}
+
+.portfolio li {
+    display: flex;
+}
