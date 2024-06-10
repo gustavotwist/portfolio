@@ -18,9 +18,7 @@ a {
     text-decoration: none;
 }
 
-a:hover {
-    text-decoration: underline;
-}
+a:hover {}
 
 header {
     background: linear-gradient(to bottom, #1bf7f7, #000000 48%);

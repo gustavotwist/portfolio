@@ -15,11 +15,7 @@ body {
 
 a {
     color: #fff;
-    text-decoration: none;
-}
-
-a:hover {
-    text-decoration: underline;
+    text-decoration:;
 }
 
 header {
