@@ -1,0 +1,17 @@
+.experience {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+}
+
+.experience li .period {
+    display: flex;
+    flex-direction: row;
+}
+
+.experience li .period {
+    display: flex;
+    flex-direction: row;
+}
