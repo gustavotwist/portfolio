@@ -1,0 +1,10 @@
+
+.skills {
+    display: flex;
+    flex-direction: column;
+}
+
+.skills .tools {
+    display: flex;
+    flex-direction: ;
+}

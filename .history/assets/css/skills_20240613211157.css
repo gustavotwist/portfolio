@@ -1,0 +1,13 @@
+
+.skills {
+    display: flex;
+    flex-direction: column;
+}
+
+.skills .tools {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-itens: center;
+    flexwrap
+}
