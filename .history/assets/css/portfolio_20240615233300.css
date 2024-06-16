@@ -16,7 +16,7 @@
     font-size: 1.12rem;
 }
 
-.portfolio li .title {
+.portfolio li .t {
     display: flex;
     flex-direction: row;
     align-items: center;
