@@ -1,0 +1,96 @@
+{
+    "name": "Gustavo Alves",
+    "photo": "https://avatars.githubusercontent.com/u/97987763?s=400&u=3fdcd78715896ce76b4f90f17f4c0411cb86a98f&v=4",
+    "person": "Junior Developer",
+    "location": "São Paulo - SP",
+    "call": "(11) 9 9023-5416",
+    "mail": "gustavo.twister10@gmail.com",
+    "skills": {
+      "hardSkills": [
+        {
+          "name": "Nodejs",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+        },
+        {
+          "name": "JavaScript",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/JavaScript.png"
+        },
+        {
+          "name": "Angular",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+        },
+        {
+          "name": "React",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+        },
+        {
+          "name": "Html",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
+        },
+        {
+          "name": "Css",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+        },
+        {
+            "name": "TypeScript",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+        },
+        {
+            "name": "Git",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+        },
+        {
+            "name": "Github",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+        }
+      ],
+      "softSkills": [
+        "Organização",
+        "Comunicação",
+        "Empatia",
+        "Trabalho em equipe",
+        "Fácil Aprendizado"
+      ]
+    },
+    "languages": [
+      "Português BR",
+      "Inglês (básico)",
+      "Espanhol (básico)"
+    ],
+    "portfolio": [
+      {
+        "name": "Projeto Clínica Donate",
+        "url": "https://gustavotwist.github.io/clinica-donate/",
+        "github": true
+      },
+      {
+        "name": "Criando o Projeto-W-wikipedia",
+        "url": "https://gustavotwist.github.io/projeto-w-wikipedia/",
+        "github": true
+      }
+    ],
+    "education": [
+        {
+          "name": "Faculdade Impacta Tecnologia - FIT",
+          "description": "Análise e Desenvolvimento de Sistemas",
+          "period": "2023 - 2025"
+        },
+        {
+          "name": "Digital Innovation One - DIO",
+          "description": "Front-end Developer",
+          "period": "2021 - até o momento"
+        }
+      ],
+    "professionalExperience": [
+      {
+        "name": "Front-end Developer / DIO",
+        "period": "2021 - até o momento",
+        "description": "Minha experiência profissional foi amplamente enriquecida pela minha participação na Digital Innovation One. Através da plataforma, pude aplicar meu conhecimento teórico em desafios práticos de codificação e projetos próprios, solidificando minhas habilidades em desenvolvimento web, programação e design de interfaces. Estou confiante de que as habilidades adquiridas me capacitam para enfrentar desafios e contribuir de forma significativa em futuras oportunidades profissionais na área de tecnologia."
+      },
+      {
+        "name": "Repositor / Da Praça Supermercados",
+        "period": "2022 - até o momento",
+        "description": "Como repositor, meu foco é manter o estoque organizado e a validade utilizando a rotação PEPS e os produtos disponíveis para os clientes. Sou meticuloso e eficiente, garantindo que tudo esteja no lugar certo e em ordem. Trabalho bem em equipe e mantenho uma comunicação clara. Minha prioridade é garantir uma experiência de compra positiva para os clientes, mantendo o estoque sempre pronto e em ordem, garantindo um bom resultado para o cliente final."
+      }
+    ]
+  }
