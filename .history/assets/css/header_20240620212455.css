@@ -8,14 +8,8 @@
 .header::after {
     content: '';
     display: inline-block;
+    align-items: center;
     position: absolute;
-    top: 1rem;
-    right: 1rem;
-    width: 2rem;
-    height: 2rem;
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-image: url('../img/header.svg');
 }
 
 
