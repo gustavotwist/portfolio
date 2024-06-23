@@ -44,8 +44,8 @@
 .acordeon .trigger::after {
     content: '';
     display: inline-block;
-    width: 2rem;
-    height: 2rem;
+    width: rem;
+    height: 3rem;
     background-repeat: no-repeat;
     background-size: contain;
     background-image: url('../img/arrow-top.svg');
